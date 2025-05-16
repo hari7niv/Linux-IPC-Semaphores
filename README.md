@@ -125,6 +125,9 @@ $ ./sem.o
 ![image](https://github.com/user-attachments/assets/25a2b4b1-1597-4626-82d6-c1b4ebc06baf)
 
 $ ipcs
+
+
+
 ![image](https://github.com/user-attachments/assets/a554ac1e-149e-4edd-a9e8-7ab545830bb8)
 
 
